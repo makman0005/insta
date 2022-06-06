@@ -12,7 +12,7 @@ import org.springframework.stereotype.Repository;
 
   @Entity
 
-  @Table(name="login")
+  @Table(name="loginData")
 
   public class Login {
 	
